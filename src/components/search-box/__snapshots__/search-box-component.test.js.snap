@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test suites for SearchBox component render SearchBox component 1`] = `
+<input
+  className="search"
+  onChange={[Function]}
+  placeholder="search monster"
+  type="search"
+/>
+`;
