@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test suites for CardList component render CardList component 1`] = `
+<div
+  className="card-list"
+>
+  <div
+    className="card-container"
+  >
+    <img
+      alt=""
+      src="https://robohash.org/1?set=set2&size=180x180"
+    />
+    <h2>
+      Leanne Graham
+    </h2>
+    <p>
+       
+      Sincere@april.biz
+       
+    </p>
+  </div>
+  <div
+    className="card-container"
+  >
+    <img
+      alt=""
+      src="https://robohash.org/2?set=set2&size=180x180"
+    />
+    <h2>
+      Leanne Graham
+    </h2>
+    <p>
+       
+      Sincere@april.biz
+       
+    </p>
+  </div>
+</div>
+`;
