@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot test suites for App component render App component 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    Monster rolodex
+  </h1>
+  <input
+    className="search"
+    onChange={[Function]}
+    placeholder="search monsters"
+    type="search"
+  />
+  <div
+    className="card-list"
+  />
+</div>
+`;
