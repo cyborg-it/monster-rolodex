@@ -1,5 +1,5 @@
 import renderer from 'react-test-renderer';
-import { SearchBox } from '../../../components/search-box/search-box.component';
+import { SearchBox } from './search-box.component';
 
 const handleChange = (event) => {
     console.log(event.target.value)

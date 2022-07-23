@@ -1,5 +1,5 @@
 import renderer from 'react-test-renderer';
-import { Card } from '../../../components/card/card.component';
+import { Card } from './card.component';
 
 const demoCardData = {
     id: 1,
