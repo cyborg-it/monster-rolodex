@@ -1,5 +1,5 @@
 import renderer from 'react-test-renderer';
-import { CardList } from '../../../components/card-list/card-list.component';
+import { CardList } from './card-list.component';
 
 const demoMonsters = [
     {
